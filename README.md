@@ -8,11 +8,11 @@
 ## 📝 Consignes
 Gérer differentes entités autour de la thématique du Cinéma.
 Être capable de: 
-  ✅ Lister la liste des acteurs ayant incarné un rôle précis
-  ✅ Lister le casting d'un film
-  ✅ Lister les films par genre
-  ✅ Lister la filmographie d'un acteur
-  ✅ Lister la filmographie d'un réalisateur
+- ✅ Lister la liste des acteurs ayant incarné un rôle précis
+- ✅ Lister le casting d'un film
+- ✅ Lister les films par genre
+- ✅ Lister la filmographie d'un acteur
+- ✅ Lister la filmographie d'un réalisateur
                      
 ## 🔧 Technologies utilisées
 [![My Skills](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
